@@ -1,4 +1,4 @@
-# Advanced SQL Analytics Project
+# SQL Sales Analytics – Advanced Querying & Business Insights
 
 ## 📌 Overview
 This project demonstrates how SQL can be used as a **complete analytics tool** — from raw data exploration to advanced analysis and final business reporting.  
